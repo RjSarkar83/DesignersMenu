@@ -1,0 +1,1767 @@
+{
+  "format": 1,
+  "assets": [
+    {
+      "key": "a01",
+      "file": "a01.avif",
+      "source": "contrast_art/01_neeli_lehrein.png",
+      "original_png_sha256": "7a027082f08da80b358576630ed6d07a65124e99d6b56bfa3db63a4e2c09d9af",
+      "input_png": "contrast_art/01_neeli_lehrein.png",
+      "input_png_sha256": "7a027082f08da80b358576630ed6d07a65124e99d6b56bfa3db63a4e2c09d9af",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 27852,
+      "avif_sha256": "d0aba575b4ba69b8852e947df0867d630d97e98ef5c3829f6d10d9a77888f888"
+    },
+    {
+      "key": "a02",
+      "file": "a02.avif",
+      "source": "designers_menu_magazine/new_artworks/02_syahi_ka_vriksh.png",
+      "original_png_sha256": "cea3ecaa3402f70cc3911ac804867ccd283fd665499f7265e55b0f351cdc8444",
+      "input_png": "designers_menu_magazine/new_artworks/02_syahi_ka_vriksh.png",
+      "input_png_sha256": "cea3ecaa3402f70cc3911ac804867ccd283fd665499f7265e55b0f351cdc8444",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 57927,
+      "avif_sha256": "14ee7ded5d3cf1c35b650d602886d213bcdc019be5ffb0ddf0dbf14e48451d92"
+    },
+    {
+      "key": "a03",
+      "file": "a03.avif",
+      "source": "contrast_art/03_gulabi_nazar.png",
+      "original_png_sha256": "1679956f9d1577eb9d59f98bde3cfc7fc0d3b5319f4b2c0b78fb9e3f5902d21d",
+      "input_png": "contrast_art/03_gulabi_nazar.png",
+      "input_png_sha256": "1679956f9d1577eb9d59f98bde3cfc7fc0d3b5319f4b2c0b78fb9e3f5902d21d",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 26663,
+      "avif_sha256": "1d210ff86d87fdd53b8cba06326b29bedf4f7c5ac5e61200eada2d6c688d2150"
+    },
+    {
+      "key": "a04",
+      "file": "a04.avif",
+      "source": "contrast_art/04_sunhera_saaya.png",
+      "original_png_sha256": "e7a694a5bd72288067a525b958be18313471e11869f4d27f24a9f2e0cdab39a9",
+      "input_png": "contrast_art/04_sunhera_saaya.png",
+      "input_png_sha256": "e7a694a5bd72288067a525b958be18313471e11869f4d27f24a9f2e0cdab39a9",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 26907,
+      "avif_sha256": "79eef6b196d44cb7193a0c00d4168160c8656d8d5125c55bb4d3797fa15fc6d0"
+    },
+    {
+      "key": "a05",
+      "file": "a05.avif",
+      "source": "contrast_art/05_hara_baag.png",
+      "original_png_sha256": "84dc3743d07eea2b36b3abc960474f6bbf5886439302e7c0a05d276d8f1caf32",
+      "input_png": "contrast_art/05_hara_baag.png",
+      "input_png_sha256": "84dc3743d07eea2b36b3abc960474f6bbf5886439302e7c0a05d276d8f1caf32",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 44928,
+      "avif_sha256": "8bb02128b1a261065cb78a33d88192a1e9dde30140332b8a32ab609561990a29"
+    },
+    {
+      "key": "a06",
+      "file": "a06.avif",
+      "source": "contrast_art/06_do_chehre.png",
+      "original_png_sha256": "8ef53d0aa49c71ef0b54842db5c56a813ca55075b7c07ff82149386109dd3797",
+      "input_png": "contrast_art/06_do_chehre.png",
+      "input_png_sha256": "8ef53d0aa49c71ef0b54842db5c56a813ca55075b7c07ff82149386109dd3797",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 32135,
+      "avif_sha256": "9047e7ec227afea5ba58b049ede43dfadb616a077d357efe514c97740ee546af"
+    },
+    {
+      "key": "a07",
+      "file": "a07.avif",
+      "source": "contrast_art/07_neeli_laya.png",
+      "original_png_sha256": "59632ef79449530edd57466eaa34294088d6defdb0777dc86e1f2912e07d41b8",
+      "input_png": "contrast_art/07_neeli_laya.png",
+      "input_png_sha256": "59632ef79449530edd57466eaa34294088d6defdb0777dc86e1f2912e07d41b8",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 56092,
+      "avif_sha256": "4a714a2b858d42e2cb992000365aa7dbc0fcb61b1d2da39021e60e8637eb5ae9"
+    },
+    {
+      "key": "a08",
+      "file": "a08.avif",
+      "source": "contrast_art/08_neeli_seedhiyan.png",
+      "original_png_sha256": "1ffbba83916af084755e169bc0498993a4dc0c5c493d981da33d3472fddd49ee",
+      "input_png": "contrast_art/08_neeli_seedhiyan.png",
+      "input_png_sha256": "1ffbba83916af084755e169bc0498993a4dc0c5c493d981da33d3472fddd49ee",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 103280,
+      "avif_sha256": "7d43604cc43b1f936ac80a75850079955bc5f8a5b583e2d9235a7274985e662e"
+    },
+    {
+      "key": "a09",
+      "file": "a09.avif",
+      "source": "contrast_art/09_chand_ka_lens.png",
+      "original_png_sha256": "bd9adf56ec7a2d0778c0c31742a77dac905267b63aeba3168697d473fe17dd23",
+      "input_png": "contrast_art/09_chand_ka_lens.png",
+      "input_png_sha256": "bd9adf56ec7a2d0778c0c31742a77dac905267b63aeba3168697d473fe17dd23",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 40944,
+      "avif_sha256": "c3200ff057fdd60c78bb0146cb102c9ea249fad1b2982a1f2442798c579a7c26"
+    },
+    {
+      "key": "a10",
+      "file": "a10.avif",
+      "source": "contrast_art/10_koi_aur_dupatta.png",
+      "original_png_sha256": "69012b27e516763601c3060f5e6bc1494b3961679b4a06025b1ad61a3ec3ad92",
+      "input_png": "contrast_art/10_koi_aur_dupatta.png",
+      "input_png_sha256": "69012b27e516763601c3060f5e6bc1494b3961679b4a06025b1ad61a3ec3ad92",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 44306,
+      "avif_sha256": "b27b91ce202401addf225dfd5bb2ebe90fc05e1829ff65579cd2c0fc698dfc78"
+    },
+    {
+      "key": "a11",
+      "file": "a11.avif",
+      "source": "unique_contrast_art/11_azad_parinda.png",
+      "original_png_sha256": "662117a532940cacd53a780d9a69f9b6ae1e15e1bc18fe1135733a5a441ddf5d",
+      "input_png": "unique_contrast_art/11_azad_parinda.png",
+      "input_png_sha256": "662117a532940cacd53a780d9a69f9b6ae1e15e1bc18fe1135733a5a441ddf5d",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 39315,
+      "avif_sha256": "151ff305e5c6ee5e5d8b7660fcb00836808f05f9acd41787695d8a9c2ce470f5"
+    },
+    {
+      "key": "a12",
+      "file": "a12.avif",
+      "source": "unique_contrast_art/12_suraj_ka_jhoola.png",
+      "original_png_sha256": "6c5a079fe189dcbbe1a790104fadd2acf30eaa94084b3ec1e7a7d4bf0afe503a",
+      "input_png": "unique_contrast_art/12_suraj_ka_jhoola.png",
+      "input_png_sha256": "6c5a079fe189dcbbe1a790104fadd2acf30eaa94084b3ec1e7a7d4bf0afe503a",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 20895,
+      "avif_sha256": "616aa8cfca4ca8a671ce0a588169685be3a3342bef35b1b642fc090ca4f7a097"
+    },
+    {
+      "key": "a13",
+      "file": "a13.avif",
+      "source": "unique_contrast_art/13_jazz_ki_dhun.png",
+      "original_png_sha256": "d05c9a1918791da6075dc2ee19b678d7e8611c5a1d03e2ebcc617253179d7a4a",
+      "input_png": "unique_contrast_art/13_jazz_ki_dhun.png",
+      "input_png_sha256": "d05c9a1918791da6075dc2ee19b678d7e8611c5a1d03e2ebcc617253179d7a4a",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 52258,
+      "avif_sha256": "c4c0d88557e3f5a778f6d9054686da22dbef4053e7781e38137e17a5533d1109"
+    },
+    {
+      "key": "a14",
+      "file": "a14.avif",
+      "source": "unique_contrast_art/14_queen_ki_chaal.png",
+      "original_png_sha256": "19b58965777b7da6911ba4c4b5b44005566020f29f053fc4562db5aa9b84791c",
+      "input_png": "unique_contrast_art/14_queen_ki_chaal.png",
+      "input_png_sha256": "19b58965777b7da6911ba4c4b5b44005566020f29f053fc4562db5aa9b84791c",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 25961,
+      "avif_sha256": "172f2d655fa048249d6a190ad369505504a54ffaabc42eb89c3f3bda829d499e"
+    },
+    {
+      "key": "a15",
+      "file": "a15.avif",
+      "source": "unique_contrast_art/15_gulab_raaz.png",
+      "original_png_sha256": "d0bf3c843bf2a4734f42a540420332a1d64979b45ec478197b360dcca00633ce",
+      "input_png": "unique_contrast_art/15_gulab_raaz.png",
+      "input_png_sha256": "d0bf3c843bf2a4734f42a540420332a1d64979b45ec478197b360dcca00633ce",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 32408,
+      "avif_sha256": "ba75edd92437c8656812490fbe1c83c739f129147134084b0c11b4ec86e32320"
+    },
+    {
+      "key": "a16",
+      "file": "a16.avif",
+      "source": "unique_contrast_art/16_keyhole_ki_duniya.png",
+      "original_png_sha256": "f8450fa6aafb9d5a1915102aa61c77ae60177c58f9a82a0bdee3426361e9f280",
+      "input_png": "unique_contrast_art/16_keyhole_ki_duniya.png",
+      "input_png_sha256": "f8450fa6aafb9d5a1915102aa61c77ae60177c58f9a82a0bdee3426361e9f280",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 23883,
+      "avif_sha256": "7176ada17126388d08f072e8f1d028c09a2f01e59bc18b12108620e694f69aef"
+    },
+    {
+      "key": "a17",
+      "file": "a17.avif",
+      "source": "designers_menu_magazine/new_artworks/17_kagaz_ka_panchhi.png",
+      "original_png_sha256": "d2b667c0ce8850358939d10f0629a36ec1d6a207eb012071d8baa85b2f77813b",
+      "input_png": "designers_menu_magazine/new_artworks/17_kagaz_ka_panchhi.png",
+      "input_png_sha256": "d2b667c0ce8850358939d10f0629a36ec1d6a207eb012071d8baa85b2f77813b",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 34429,
+      "avif_sha256": "9846959db2f8989c0681bf26ee6069a9662291de0102b094bbb4c20cf304eddf"
+    },
+    {
+      "key": "a18",
+      "file": "a18.avif",
+      "source": "unique_contrast_art/18_billi_aur_nazar.png",
+      "original_png_sha256": "fb4946eb6c1d5ef98627f3419132ad7e21dc2640a52a2f0deb50280763e6ca2e",
+      "input_png": "unique_contrast_art/18_billi_aur_nazar.png",
+      "input_png_sha256": "fb4946eb6c1d5ef98627f3419132ad7e21dc2640a52a2f0deb50280763e6ca2e",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 35037,
+      "avif_sha256": "d9ac032138f6e9d16983d4dc6c9515685204dee8c87e5b743254effbbc6fee74"
+    },
+    {
+      "key": "a19",
+      "file": "a19.avif",
+      "source": "unique_contrast_art/19_lal_dhaaga.png",
+      "original_png_sha256": "69c7e13d483e3a7059a8c4254258fc9f5a70122b4133383abf79325639d798dc",
+      "input_png": "unique_contrast_art/19_lal_dhaaga.png",
+      "input_png_sha256": "69c7e13d483e3a7059a8c4254258fc9f5a70122b4133383abf79325639d798dc",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 30637,
+      "avif_sha256": "ed8b579eaa9ea1aeca83e050f5ac57a61386351995959b8ef5242941d3a12ede"
+    },
+    {
+      "key": "a20",
+      "file": "a20.avif",
+      "source": "unique_contrast_art/20_samundari_khwab.png",
+      "original_png_sha256": "5f8260f2e477f11d1e2d816a76af3124e9295168aa1f0e069e97f73a556e37c9",
+      "input_png": "unique_contrast_art/20_samundari_khwab.png",
+      "input_png_sha256": "5f8260f2e477f11d1e2d816a76af3124e9295168aa1f0e069e97f73a556e37c9",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 20321,
+      "avif_sha256": "30cb68e3a5c44c84b68a81762e8cdcdb9652dbde51529a5a756e90d0c1e39218"
+    },
+    {
+      "key": "a21",
+      "file": "a21.avif",
+      "source": "indian_contrast_art/21_sindoori_saree.png",
+      "original_png_sha256": "4c81416feaa0f14cc4a47bc96b28e8e49632e3fadd40aaeb1c55a3e35262f209",
+      "input_png": "indian_contrast_art/21_sindoori_saree.png",
+      "input_png_sha256": "4c81416feaa0f14cc4a47bc96b28e8e49632e3fadd40aaeb1c55a3e35262f209",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 32618,
+      "avif_sha256": "f01de4b056a02df9407bb22519fa4036222fd3cf7bcb32ab216e7af1b0efc5a3"
+    },
+    {
+      "key": "a22",
+      "file": "a22.avif",
+      "source": "indian_contrast_art/22_rangoli_roshni.png",
+      "original_png_sha256": "116a2835c7236ce88e49b6249c43c48b13f5d8bf938331dfd99fcc43e7ccac62",
+      "input_png": "indian_contrast_art/22_rangoli_roshni.png",
+      "input_png_sha256": "116a2835c7236ce88e49b6249c43c48b13f5d8bf938331dfd99fcc43e7ccac62",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 62174,
+      "avif_sha256": "d7d243e988e5f32cd9922350a53251163ba93060fd5244e82fc8c0c4ec892d25"
+    },
+    {
+      "key": "a23",
+      "file": "a23.avif",
+      "source": "indian_contrast_art/23_sitar_ka_sur.png",
+      "original_png_sha256": "4cecd59eab4c1d68b7f961ee209ca0e4d74c38d9ad33583783c8d3eb4bb8231d",
+      "input_png": "indian_contrast_art/23_sitar_ka_sur.png",
+      "input_png_sha256": "4cecd59eab4c1d68b7f961ee209ca0e4d74c38d9ad33583783c8d3eb4bb8231d",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 63901,
+      "avif_sha256": "66d22096e5b9e4f9f1a1de787c5f53bc5a9fdd73e8c455a750e5ac0c321e2b35"
+    },
+    {
+      "key": "a24",
+      "file": "a24.avif",
+      "source": "indian_contrast_art/24_monsoon_auto.png",
+      "original_png_sha256": "80782847b2e89be30bcccb52f1e2133e9bf87b8f2591800d261073c688e16fd4",
+      "input_png": "indian_contrast_art/24_monsoon_auto.png",
+      "input_png_sha256": "80782847b2e89be30bcccb52f1e2133e9bf87b8f2591800d261073c688e16fd4",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 38320,
+      "avif_sha256": "ca1d37fd291111a14834ecab9352caaa1e0fd4230c17f0ad5a88dc3ffe0be7e2"
+    },
+    {
+      "key": "a25",
+      "file": "a25.avif",
+      "source": "indian_contrast_art/25_jaipur_jharokha.png",
+      "original_png_sha256": "d4d6d6cffbcddead45c94a3d58832056e07ff1beee6984762b97086614ddfff1",
+      "input_png": "indian_contrast_art/25_jaipur_jharokha.png",
+      "input_png_sha256": "d4d6d6cffbcddead45c94a3d58832056e07ff1beee6984762b97086614ddfff1",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 20503,
+      "avif_sha256": "59ed65097551adf03ee6b0ed53835c369f3f24bb6cfde688d5523d7388411c1e"
+    },
+    {
+      "key": "a26",
+      "file": "a26.avif",
+      "source": "indian_contrast_art/26_aam_mirchi.png",
+      "original_png_sha256": "116172298eb03569720c717a30e350ea71084e5245ae641187afd8b2c7be2c6b",
+      "input_png": "indian_contrast_art/26_aam_mirchi.png",
+      "input_png_sha256": "116172298eb03569720c717a30e350ea71084e5245ae641187afd8b2c7be2c6b",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 31703,
+      "avif_sha256": "cc973369333708239c9d47c7e4c257183913954156aca94193e8bea467e81b1a"
+    },
+    {
+      "key": "a27",
+      "file": "a27.avif",
+      "source": "indian_contrast_art/27_mogra_gajra.png",
+      "original_png_sha256": "bdee88de97f3026265267cce3887e4db728a16ae811ce74241cd783546af902f",
+      "input_png": "indian_contrast_art/27_mogra_gajra.png",
+      "input_png_sha256": "bdee88de97f3026265267cce3887e4db728a16ae811ce74241cd783546af902f",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 38396,
+      "avif_sha256": "1ffe97f5cc0008ee5196e24069cac0a65b7b6e6f45fd6f8f0728120b8dfe7b21"
+    },
+    {
+      "key": "a28",
+      "file": "a28.avif",
+      "source": "indian_contrast_art/28_kathak_chakkar.png",
+      "original_png_sha256": "23849de80cfc6dcb43e7ebc290ae5e0930a9a766294d03bbbf63446fd0c189d2",
+      "input_png": "indian_contrast_art/28_kathak_chakkar.png",
+      "input_png_sha256": "23849de80cfc6dcb43e7ebc290ae5e0930a9a766294d03bbbf63446fd0c189d2",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 103647,
+      "avif_sha256": "758a4b93315fd526f691797a2f85c8a6288630448fa59774ce4e3144a31842e9"
+    },
+    {
+      "key": "a29",
+      "file": "a29.avif",
+      "source": "indian_contrast_art/29_mor_ka_jadoo.png",
+      "original_png_sha256": "ee3c4d1c4857a0939efec0758fc8b5b2bbeccd5912b2e1e3b1ea7f1d4cf9e400",
+      "input_png": "indian_contrast_art/29_mor_ka_jadoo.png",
+      "input_png_sha256": "ee3c4d1c4857a0939efec0758fc8b5b2bbeccd5912b2e1e3b1ea7f1d4cf9e400",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 56571,
+      "avif_sha256": "b973f4694b353b80ef92d1e37b1adcc4918014e1d5489a1fc86ed1ed5cd107a2"
+    },
+    {
+      "key": "a30",
+      "file": "a30.avif",
+      "source": "indian_contrast_art/30_kashmir_shikara.png",
+      "original_png_sha256": "8cc8eba3afc167c253be2d365c3d0edab2cc63617430f05c2ba9c0e9b0bd5b66",
+      "input_png": "indian_contrast_art/30_kashmir_shikara.png",
+      "input_png_sha256": "8cc8eba3afc167c253be2d365c3d0edab2cc63617430f05c2ba9c0e9b0bd5b66",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 31940,
+      "avif_sha256": "456a016dc9bffe3e2aa70d36dbe1c2681cbec6030391385489de88f666f30ce2"
+    },
+    {
+      "key": "a31",
+      "file": "a31.avif",
+      "source": "indian_contrast_art/31_patang_aur_pallu.png",
+      "original_png_sha256": "6150ea83fde56710b21e7f2b1c756c51639b2211e77b7488f7fdc73e78a66770",
+      "input_png": "indian_contrast_art/31_patang_aur_pallu.png",
+      "input_png_sha256": "6150ea83fde56710b21e7f2b1c756c51639b2211e77b7488f7fdc73e78a66770",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 35432,
+      "avif_sha256": "8deb24e38f347d99800b3683ce2af6f905b268438831e70fff60474eb2de2ae9"
+    },
+    {
+      "key": "a32",
+      "file": "a32.avif",
+      "source": "indian_contrast_art/32_kulhad_chai.png",
+      "original_png_sha256": "6c6a79ec89bd4609046dd35f24c83c4009c46b05361a641b6edfdbcb94544425",
+      "input_png": "indian_contrast_art/32_kulhad_chai.png",
+      "input_png_sha256": "6c6a79ec89bd4609046dd35f24c83c4009c46b05361a641b6edfdbcb94544425",
+      "source_crop": [
+        30,
+        27,
+        898,
+        1126
+      ],
+      "dimensions": [
+        868,
+        1099
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 32076,
+      "avif_sha256": "1f814f5c2f63c584706d275faee00cd28659d60697b9a7e33fd8f50a4bd834e1"
+    },
+    {
+      "key": "a33",
+      "file": "a33.avif",
+      "source": "indian_contrast_art/33_banarasi_bunai.png",
+      "original_png_sha256": "77dc0d9854d06688f6a1cbf4c8a5bc1e6d570f3fad8836877cd22a33478e1304",
+      "input_png": "indian_contrast_art/33_banarasi_bunai.png",
+      "input_png_sha256": "77dc0d9854d06688f6a1cbf4c8a5bc1e6d570f3fad8836877cd22a33478e1304",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 126124,
+      "avif_sha256": "06dbca528875b5a02efaa84c8875a27a1edca7f11d1c92ed480d062f97abe2a3"
+    },
+    {
+      "key": "a34",
+      "file": "a34.avif",
+      "source": "indian_contrast_art/34_dabbawala.png",
+      "original_png_sha256": "52f51ae540d309f1491c926fa42d93c0b22b42b26f3626c808e0c6c5ccaaf8a7",
+      "input_png": "indian_contrast_art/34_dabbawala.png",
+      "input_png_sha256": "52f51ae540d309f1491c926fa42d93c0b22b42b26f3626c808e0c6c5ccaaf8a7",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 58518,
+      "avif_sha256": "26e23a265d5f6fd1befd20b7adae6ae1314e0196d2f47439e9ca3d71610a5c20"
+    },
+    {
+      "key": "a35",
+      "file": "a35.avif",
+      "source": "indian_contrast_art/35_kathakali_nazar.png",
+      "original_png_sha256": "eb9bb4289d9a8380044e5412f2b36f6ea4a49427ec7e2aaacfd3ee41f4293aec",
+      "input_png": "indian_contrast_art/35_kathakali_nazar.png",
+      "input_png_sha256": "eb9bb4289d9a8380044e5412f2b36f6ea4a49427ec7e2aaacfd3ee41f4293aec",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 56139,
+      "avif_sha256": "4465b33ed26eb2207f1b337a67afca79029cf25afd8a9c285292319e3edf65c0"
+    },
+    {
+      "key": "a36",
+      "file": "a36.avif",
+      "source": "designers_menu_magazine/new_artworks/36_baori_ki_boond.png",
+      "original_png_sha256": "98cbf4a147da600cdcc660f1b299ccf12af80f620f71d82242be9df273922a27",
+      "input_png": "designers_menu_magazine/new_artworks/36_baori_ki_boond.png",
+      "input_png_sha256": "98cbf4a147da600cdcc660f1b299ccf12af80f620f71d82242be9df273922a27",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 50213,
+      "avif_sha256": "0b51f431c32f13f0f0af57dd69c160a2a6f65eaaf2a9d7029b2df583a73b815f"
+    },
+    {
+      "key": "a37",
+      "file": "a37.avif",
+      "source": "designers_menu_magazine/new_artworks/37_kamal_ki_lehar.png",
+      "original_png_sha256": "96d30244116074eece02d11fd2dcda153fa8492c01f3ce3685b65541094e99c0",
+      "input_png": "designers_menu_magazine/new_artworks/37_kamal_ki_lehar.png",
+      "input_png_sha256": "96d30244116074eece02d11fd2dcda153fa8492c01f3ce3685b65541094e99c0",
+      "source_crop": null,
+      "dimensions": [
+        848,
+        1264
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 40700,
+      "avif_sha256": "d4dd96b72e7eeb073b445467b07a56d595fe17adadc432fcfdb85f32f06d3e42"
+    },
+    {
+      "key": "a38",
+      "file": "a38.avif",
+      "source": "indian_contrast_art/38_phulkari_nazar.png",
+      "original_png_sha256": "b4d4ad2c2e473c9ba52b21f256645e890993f515246c211fc3802cb4e628bb35",
+      "input_png": "indian_contrast_art/38_phulkari_nazar.png",
+      "input_png_sha256": "b4d4ad2c2e473c9ba52b21f256645e890993f515246c211fc3802cb4e628bb35",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 65346,
+      "avif_sha256": "299a78eb3271791eada6a4ee318240c3d9fa2acc47d4e1e899e1b7fa949340f2"
+    },
+    {
+      "key": "a39",
+      "file": "a39.avif",
+      "source": "indian_contrast_art/39_bharatanatyam.png",
+      "original_png_sha256": "ad898d0d593f879aa50c38eb77b92332a62750244fa358d179ababff0d96da22",
+      "input_png": "indian_contrast_art/39_bharatanatyam.png",
+      "input_png_sha256": "ad898d0d593f879aa50c38eb77b92332a62750244fa358d179ababff0d96da22",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 94070,
+      "avif_sha256": "6119052a2f13d29c6821b0e6459987681e8f57d75e8c8612e54276eb485e10da"
+    },
+    {
+      "key": "a40",
+      "file": "a40.avif",
+      "source": "indian_contrast_art/40_south_indian_thali.png",
+      "original_png_sha256": "fe3274e5eeef0a6684c45a33aa496ea1b522fee73a863a6c801383e27be5e909",
+      "input_png": "indian_contrast_art/40_south_indian_thali.png",
+      "input_png_sha256": "fe3274e5eeef0a6684c45a33aa496ea1b522fee73a863a6c801383e27be5e909",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 32625,
+      "avif_sha256": "e6797e377a89348ffe4855d80f5dbe16386f3e61a9d7cd4eb81e077ee7800440"
+    },
+    {
+      "key": "a41",
+      "file": "a41.avif",
+      "source": "indian_contrast_art/41_sunehri_nath.png",
+      "original_png_sha256": "79acc9a09a48eae93deb437bb0b31ace36aab12d5133fe620c959f7dada56a7f",
+      "input_png": "indian_contrast_art/41_sunehri_nath.png",
+      "input_png_sha256": "79acc9a09a48eae93deb437bb0b31ace36aab12d5133fe620c959f7dada56a7f",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 45253,
+      "avif_sha256": "1e2c08d1405f1a34ac56be24b3478a9277504aa3c337bb80584f1a3b25cdcd20"
+    },
+    {
+      "key": "a42",
+      "file": "a42.avif",
+      "source": "indian_contrast_art/42_mehndi_ka_chand.png",
+      "original_png_sha256": "2cec55e40e2beb7f9527815920670c4776d3fd8ba180f11737c1451261ccd120",
+      "input_png": "indian_contrast_art/42_mehndi_ka_chand.png",
+      "input_png_sha256": "2cec55e40e2beb7f9527815920670c4776d3fd8ba180f11737c1451261ccd120",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 28554,
+      "avif_sha256": "54f3bda34631d46b241ee27f26c07ac23f7056d9bdb3c30de56839ba427bb863"
+    },
+    {
+      "key": "a43",
+      "file": "a43.avif",
+      "source": "indian_contrast_art/43_genda_ki_mala.png",
+      "original_png_sha256": "641846ec9197a4533228e8f484d49d16f8ac348f22333815fd044ab29f91e564",
+      "input_png": "indian_contrast_art/43_genda_ki_mala.png",
+      "input_png_sha256": "641846ec9197a4533228e8f484d49d16f8ac348f22333815fd044ab29f91e564",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 60100,
+      "avif_sha256": "9ff7ccbe640a3bdce6d2d7841f1e4fe3dfafbe8b4a632eb421a27ce0be4046a9"
+    },
+    {
+      "key": "a44",
+      "file": "a44.avif",
+      "source": "indian_contrast_art/44_holi_ki_leher.png",
+      "original_png_sha256": "f4ece3fb7102ff4fd0ba1d0b132086ccc5be67ca11bd78a01c48290ea797f58f",
+      "input_png": "indian_contrast_art/44_holi_ki_leher.png",
+      "input_png_sha256": "f4ece3fb7102ff4fd0ba1d0b132086ccc5be67ca11bd78a01c48290ea797f58f",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 60180,
+      "avif_sha256": "e3d70f0a9563688d5e34e1a125fce00d188244c765d88fb5e7bc990272b3d142"
+    },
+    {
+      "key": "a45",
+      "file": "a45.avif",
+      "source": "indian_contrast_art/45_garba_ki_raas.png",
+      "original_png_sha256": "e3309934202ec08e01e5538f73982ab3248d69aeaeaea88872d26aa3de27f688",
+      "input_png": "indian_contrast_art/45_garba_ki_raas.png",
+      "input_png_sha256": "e3309934202ec08e01e5538f73982ab3248d69aeaeaea88872d26aa3de27f688",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 94168,
+      "avif_sha256": "4551ef0ae1fd41d3bf04914ad61bd6fb55e567071e59ca21274592e1d174c4fb"
+    },
+    {
+      "key": "a46",
+      "file": "a46.avif",
+      "source": "indian_contrast_art/46_masala_bazaar.png",
+      "original_png_sha256": "a28e70bcf80c79cb3d7a11b8a039780f09d661cc234d83f294d39c7b3c44a6f6",
+      "input_png": "indian_contrast_art/46_masala_bazaar.png",
+      "input_png_sha256": "a28e70bcf80c79cb3d7a11b8a039780f09d661cc234d83f294d39c7b3c44a6f6",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 29739,
+      "avif_sha256": "35a025c0f1f8f261d38a5032ee963fc40a6fca7eb030b523b5f69f8b7fdea913"
+    },
+    {
+      "key": "a47",
+      "file": "a47.avif",
+      "source": "indian_contrast_art/47_baarish_ki_train.png",
+      "original_png_sha256": "58261e98192ac4bf88627c7677812eae35f4ef44f4913364fdc0f07ba07c1ed9",
+      "input_png": "indian_contrast_art/47_baarish_ki_train.png",
+      "input_png_sha256": "58261e98192ac4bf88627c7677812eae35f4ef44f4913364fdc0f07ba07c1ed9",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 33752,
+      "avif_sha256": "c1b0ec358bc56fdb2226b99864d666c693360f6d3133775d6ee1c6d1bee81fad"
+    },
+    {
+      "key": "a48",
+      "file": "a48.avif",
+      "source": "indian_contrast_art/48_haathi_ka_suraj.png",
+      "original_png_sha256": "f034927d4cb7a35e746385036873e2ff4d064d2480d6abaa3da831f965c647a8",
+      "input_png": "indian_contrast_art/48_haathi_ka_suraj.png",
+      "input_png_sha256": "f034927d4cb7a35e746385036873e2ff4d064d2480d6abaa3da831f965c647a8",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 31900,
+      "avif_sha256": "760608d311c9d0506eedaa2f95cf550963c261cb7495c5afa4de8d92b20b7daf"
+    },
+    {
+      "key": "a49",
+      "file": "a49.avif",
+      "source": "designers_menu_magazine/new_artworks/49_chudi_ki_subah.png",
+      "original_png_sha256": "6d53eb7d204353cc2f177d3035cf0c55be10c579444d9e772fcdfa434c96eb0a",
+      "input_png": "designers_menu_magazine/new_artworks/49_chudi_ki_subah.png",
+      "input_png_sha256": "6d53eb7d204353cc2f177d3035cf0c55be10c579444d9e772fcdfa434c96eb0a",
+      "source_crop": [
+        0,
+        190,
+        768,
+        1094
+      ],
+      "dimensions": [
+        768,
+        904
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 49976,
+      "avif_sha256": "837b56cc81f64cb122564ed87348fc53f10563ebdcce20a77e900cdc2f2b6827"
+    },
+    {
+      "key": "a50",
+      "file": "a50.avif",
+      "source": "indian_contrast_art/50_assam_ki_chai_patti.png",
+      "original_png_sha256": "51fed4aab80b53ee90deacb2d018db9ef6c740f43c81a5e7965ddca886d08a3c",
+      "input_png": "indian_contrast_art/50_assam_ki_chai_patti.png",
+      "input_png_sha256": "51fed4aab80b53ee90deacb2d018db9ef6c740f43c81a5e7965ddca886d08a3c",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 97677,
+      "avif_sha256": "027ebaf15225ff4354e66534d10158868c2c236f45042e134073706c82bbd3ae"
+    },
+    {
+      "key": "a51",
+      "file": "a51.avif",
+      "source": "indian_contrast_art/51_ladakhi_perak.png",
+      "original_png_sha256": "a43a0e1bff816be60b5f8940311428b3069a23296693f1a77eb4241b4069e61c",
+      "input_png": "indian_contrast_art/51_ladakhi_perak.png",
+      "input_png_sha256": "a43a0e1bff816be60b5f8940311428b3069a23296693f1a77eb4241b4069e61c",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 43766,
+      "avif_sha256": "28794958e86b803e0062bd8dbedce4028a632d245f544b5e0bddf5d6d6adf371"
+    },
+    {
+      "key": "a52",
+      "file": "a52.avif",
+      "source": "designers_menu_magazine/new_artworks/52_chhat_par_rang.png",
+      "original_png_sha256": "4fa40526f471a660ff4afb146ca7f2d9930fb84550fd116341182dfceb550b63",
+      "input_png": "designers_menu_magazine/new_artworks/52_chhat_par_rang.png",
+      "input_png_sha256": "4fa40526f471a660ff4afb146ca7f2d9930fb84550fd116341182dfceb550b63",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 128049,
+      "avif_sha256": "0df7148524c53c87e8fc6059668da71ae47d24fb2f7a80e377979547082158dc"
+    },
+    {
+      "key": "a53",
+      "file": "a53.avif",
+      "source": "designers_menu_magazine/new_artworks/53_kathputli_ki_dor.png",
+      "original_png_sha256": "5361cfddf0a55a49b9060e72467ae59db9b2894a6db9fc4b22b26b3dd7f43a9e",
+      "input_png": "designers_menu_magazine/new_artworks/53_kathputli_ki_dor.png",
+      "input_png_sha256": "5361cfddf0a55a49b9060e72467ae59db9b2894a6db9fc4b22b26b3dd7f43a9e",
+      "source_crop": null,
+      "dimensions": [
+        848,
+        1264
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 41803,
+      "avif_sha256": "6854b92c10760a09d443f2b42ba9df2042968b06d31da2840955dd74f2383685"
+    },
+    {
+      "key": "a54",
+      "file": "a54.avif",
+      "source": "indian_contrast_art/54_jalebi_jhumka.png",
+      "original_png_sha256": "c866b57e9523f33c12e084459395ff34de150faf9639a64f06e95275f29ec5e4",
+      "input_png": "indian_contrast_art/54_jalebi_jhumka.png",
+      "input_png_sha256": "c866b57e9523f33c12e084459395ff34de150faf9639a64f06e95275f29ec5e4",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 41135,
+      "avif_sha256": "8edf68a92c3b746a0b266cee8c578705ccf937a8b66d4cee490bb1f20c0db115"
+    },
+    {
+      "key": "a55",
+      "file": "a55.avif",
+      "source": "indian_contrast_art/55_matka_ka_chand.png",
+      "original_png_sha256": "247f758acd22da5778e6067396cead5688cdbddc62fb4f15a202eca822c8a541",
+      "input_png": "indian_contrast_art/55_matka_ka_chand.png",
+      "input_png_sha256": "247f758acd22da5778e6067396cead5688cdbddc62fb4f15a202eca822c8a541",
+      "source_crop": [
+        26,
+        23,
+        902,
+        1129
+      ],
+      "dimensions": [
+        876,
+        1106
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 25821,
+      "avif_sha256": "314bf56095dafbbe3f9c5cc3087ee1ed8a00f7645c1d5bd3f0ebaa49f7167032"
+    },
+    {
+      "key": "a56",
+      "file": "a56.avif",
+      "source": "indian_contrast_art/56_mithila_machhli.png",
+      "original_png_sha256": "890fcb751dae3ea99605cc0205cd5ce5ad4f31bcd2eb18fc85cee6dc08829c63",
+      "input_png": "indian_contrast_art/56_mithila_machhli.png",
+      "input_png_sha256": "890fcb751dae3ea99605cc0205cd5ce5ad4f31bcd2eb18fc85cee6dc08829c63",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 60982,
+      "avif_sha256": "ba85fe71b0fe7bdc30c1d1536cdcc20e9cc913a0c5f24453dc7621be53726086"
+    },
+    {
+      "key": "a57",
+      "file": "a57.avif",
+      "source": "indian_contrast_art/57_tabla_taal.png",
+      "original_png_sha256": "9e7c05831db74a238c9a6c92481f2e92267c3bb6f4b173af09be60a82e365825",
+      "input_png": "indian_contrast_art/57_tabla_taal.png",
+      "input_png_sha256": "9e7c05831db74a238c9a6c92481f2e92267c3bb6f4b173af09be60a82e365825",
+      "source_crop": [
+        31,
+        28,
+        897,
+        1121
+      ],
+      "dimensions": [
+        866,
+        1093
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 59292,
+      "avif_sha256": "3da3d3f1cc6286e1328ac14e81a84a8e6a8b12460036e1bcebc80e7c3fa778eb"
+    },
+    {
+      "key": "a58",
+      "file": "a58.avif",
+      "source": "indian_contrast_art/58_thar_ka_suraj.png",
+      "original_png_sha256": "1f99bfbfae31b49ecd398992f90230b63203731ecef84867307a16476074b497",
+      "input_png": "indian_contrast_art/58_thar_ka_suraj.png",
+      "input_png_sha256": "1f99bfbfae31b49ecd398992f90230b63203731ecef84867307a16476074b497",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 24481,
+      "avif_sha256": "a05a9c0a72b05680c26c7abe010f5f2c920522ffc517148d4394b9648b1ad858"
+    },
+    {
+      "key": "a59",
+      "file": "a59.avif",
+      "source": "indian_contrast_art/59_phuljhadi_ki_raat.png",
+      "original_png_sha256": "2522800067c31532cbcc6a4bb0921b0e4b2147535f36fba642b845d35c1d0e30",
+      "input_png": "indian_contrast_art/59_phuljhadi_ki_raat.png",
+      "input_png_sha256": "2522800067c31532cbcc6a4bb0921b0e4b2147535f36fba642b845d35c1d0e30",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 85845,
+      "avif_sha256": "5a9234f20556bc0f2ba01616cb87dc540b1cdbb28eff16bbde42dbd3d0227147"
+    },
+    {
+      "key": "a60",
+      "file": "a60.avif",
+      "source": "indian_contrast_art/60_kerala_ka_aaina.png",
+      "original_png_sha256": "ffa0f2434cbbdc561a0da350c199e7d3e61b6e02f1475084155883932c4465e4",
+      "input_png": "indian_contrast_art/60_kerala_ka_aaina.png",
+      "input_png_sha256": "ffa0f2434cbbdc561a0da350c199e7d3e61b6e02f1475084155883932c4465e4",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 67454,
+      "avif_sha256": "6c81a586180c07554acc208730cf42229c654e79160448ff08b59c23167d2915"
+    },
+    {
+      "key": "a61",
+      "file": "a61.avif",
+      "source": "designers_menu_magazine/new_artworks/61_jaali_ka_saaya.png",
+      "original_png_sha256": "f145967de9949b140ad259e0de30eeaa91032325515c204d6b4c1d71956e5fc8",
+      "input_png": "designers_menu_magazine/new_artworks/61_jaali_ka_saaya.png",
+      "input_png_sha256": "f145967de9949b140ad259e0de30eeaa91032325515c204d6b4c1d71956e5fc8",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 126032,
+      "avif_sha256": "1428b73e0c830bbf2d93c462532f8461b325b73c598e42f5a802bee235068792"
+    },
+    {
+      "key": "a62",
+      "file": "a62.avif",
+      "source": "indian_contrast_art/62_paan_ki_patti.png",
+      "original_png_sha256": "ff40b125c120b914fbfc08376638f9c4ae755b367500dca0fa9daf691149c570",
+      "input_png": "indian_contrast_art/62_paan_ki_patti.png",
+      "input_png_sha256": "ff40b125c120b914fbfc08376638f9c4ae755b367500dca0fa9daf691149c570",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 21454,
+      "avif_sha256": "4a4b7a23548fc46d72dff2f329a044c9c831796b741a4198f498ef1f048e9a2e"
+    },
+    {
+      "key": "a63",
+      "file": "a63.avif",
+      "source": "indian_contrast_art/63_kinare_ka_jaal.png",
+      "original_png_sha256": "0f3b92e1ed720159abdffc6579af2ac17b33a037a65f263172b9ac6b030138b3",
+      "input_png": "indian_contrast_art/63_kinare_ka_jaal.png",
+      "input_png_sha256": "0f3b92e1ed720159abdffc6579af2ac17b33a037a65f263172b9ac6b030138b3",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 45991,
+      "avif_sha256": "cf279c5dd4f469ff0404962c82701fc1b23dc0f78fab7ece5e2ffc9424ad578e"
+    },
+    {
+      "key": "a64",
+      "file": "a64.avif",
+      "source": "indian_contrast_art/64_gully_ka_shot.png",
+      "original_png_sha256": "33352055896031fab492e95bb79e5f0e9e566e36056a06708c9de6b768fa45b0",
+      "input_png": "indian_contrast_art/64_gully_ka_shot.png",
+      "input_png_sha256": "33352055896031fab492e95bb79e5f0e9e566e36056a06708c9de6b768fa45b0",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 20443,
+      "avif_sha256": "0f7d65c5cdd99d1e90426b79a4757018901512ec5733616bac3c5171e63ed811"
+    },
+    {
+      "key": "a65",
+      "file": "a65.avif",
+      "source": "indian_contrast_art/65_bansuri_ki_saanjh.png",
+      "original_png_sha256": "bd76c999dd98c27f066b296a6ce75784199dc4b25923b9d732c0419d5840d9e9",
+      "input_png": "indian_contrast_art/65_bansuri_ki_saanjh.png",
+      "input_png_sha256": "bd76c999dd98c27f066b296a6ce75784199dc4b25923b9d732c0419d5840d9e9",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 31172,
+      "avif_sha256": "f4e6a8719f195501ad7b116bcb94cb57cabd8eb1ca5302e423d5c18a704ba7a4"
+    },
+    {
+      "key": "a66",
+      "file": "a66.avif",
+      "source": "indian_contrast_art/66_gulmohar_ka_saaya.png",
+      "original_png_sha256": "c60eb9ca5eff512609d3e8ad25f0c29835254585863ef707999185a024dd6000",
+      "input_png": "indian_contrast_art/66_gulmohar_ka_saaya.png",
+      "input_png_sha256": "c60eb9ca5eff512609d3e8ad25f0c29835254585863ef707999185a024dd6000",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 71035,
+      "avif_sha256": "c740697c042ba99437d9dcbb9eb7bb526372dd928222e623b6a28646079396d3"
+    },
+    {
+      "key": "a67",
+      "file": "a67.avif",
+      "source": "indian_contrast_art/67_bandhani_ka_chand.png",
+      "original_png_sha256": "c57ceb707bf7d18e8503909da527b387d54b4b9fb8f1a6a1736cd6c748ce9d5b",
+      "input_png": "indian_contrast_art/67_bandhani_ka_chand.png",
+      "input_png_sha256": "c57ceb707bf7d18e8503909da527b387d54b4b9fb8f1a6a1736cd6c748ce9d5b",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 32634,
+      "avif_sha256": "4cf7724579929b521dec663ab4fa2e7549eeca1a1b540af91c7393b8b4abdb47"
+    },
+    {
+      "key": "a68",
+      "file": "a68.avif",
+      "source": "designers_menu_magazine/new_artworks/68_cinema_ki_roshni.png",
+      "original_png_sha256": "0296dbb0756e0aa9436c434256f2cbf468226f804ad4c1bd3fd02545566f9f25",
+      "input_png": "designers_menu_magazine/new_artworks/68_cinema_ki_roshni.png",
+      "input_png_sha256": "0296dbb0756e0aa9436c434256f2cbf468226f804ad4c1bd3fd02545566f9f25",
+      "source_crop": null,
+      "dimensions": [
+        848,
+        1264
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 48028,
+      "avif_sha256": "1dcb78135939eb7a3040735c90c533eefac0fe2e724d45c894d832e1ea47db6e"
+    },
+    {
+      "key": "a69",
+      "file": "a69.avif",
+      "source": "indian_contrast_art/69_baagh_ki_nazar.png",
+      "original_png_sha256": "3e995a22158c9ebce93ecd815c9297ef076e12a45e9599b7772396746840a211",
+      "input_png": "indian_contrast_art/69_baagh_ki_nazar.png",
+      "input_png_sha256": "3e995a22158c9ebce93ecd815c9297ef076e12a45e9599b7772396746840a211",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 76019,
+      "avif_sha256": "590c788f9e0088547adc464b0a3b6383f49ae8b3e9b2611778a529ee862b503e"
+    },
+    {
+      "key": "a70",
+      "file": "a70.avif",
+      "source": "designers_menu_magazine/new_artworks/70_cassette_ki_udaan.png",
+      "original_png_sha256": "78fd0a4a3702d78a3a290437a3861b087faf5e2c41b47e36b424d9d2ded7866d",
+      "input_png": "designers_menu_magazine/new_artworks/70_cassette_ki_udaan.png",
+      "input_png_sha256": "78fd0a4a3702d78a3a290437a3861b087faf5e2c41b47e36b424d9d2ded7866d",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 50656,
+      "avif_sha256": "4cfd00397bd910d930ac15a94bbde20502e025226022e917335b9d6ec83894b0"
+    },
+    {
+      "key": "a71",
+      "file": "a71.avif",
+      "source": "designers_menu_magazine/indian_reference_artworks/71_diya_ki_nazar.png",
+      "original_png_sha256": "4d499cff080caa8dbd3219572247969faa3ee248cebac5bf58faf487e3650c87",
+      "input_png": "designers_menu_magazine/indian_reference_artworks/71_diya_ki_nazar.png",
+      "input_png_sha256": "4d499cff080caa8dbd3219572247969faa3ee248cebac5bf58faf487e3650c87",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 38394,
+      "avif_sha256": "57852ad0d37a78b22fa7cca0032bfe7377623b20d7f1c166a2b43e0b158acf53"
+    },
+    {
+      "key": "a72",
+      "file": "a72.avif",
+      "source": "designers_menu_magazine/indian_reference_artworks/72_aam_ki_do_nazrein.png",
+      "original_png_sha256": "b644369a72d225eb43dfceaf869d7543c5e7fcc49d74ae50623f7c875fc881e4",
+      "input_png": "designers_menu_magazine/indian_reference_artworks/72_aam_ki_do_nazrein.png",
+      "input_png_sha256": "b644369a72d225eb43dfceaf869d7543c5e7fcc49d74ae50623f7c875fc881e4",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 50703,
+      "avif_sha256": "fd507b3fb1917a05f99ce1a7951c8c97f451441b03f387ec8e4c1c06858920f2"
+    },
+    {
+      "key": "a73",
+      "file": "a73.avif",
+      "source": "designers_menu_magazine/indian_reference_artworks/73_jharokhe_ki_nazar.png",
+      "original_png_sha256": "7cbd92e3e11ab7e35479ce757abf5ff570cdb8c7377f9aac1f424717f5a40b2a",
+      "input_png": "designers_menu_magazine/indian_reference_artworks/73_jharokhe_ki_nazar.png",
+      "input_png_sha256": "7cbd92e3e11ab7e35479ce757abf5ff570cdb8c7377f9aac1f424717f5a40b2a",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 99081,
+      "avif_sha256": "250f38b0fd99ec6a36952d39ccd715eeab0e57ccb4e0a95e7956a4146a5fa74d"
+    },
+    {
+      "key": "a74",
+      "file": "a74.avif",
+      "source": "designers_menu_magazine/indian_reference_artworks/user/74_sari_aur_veena.png",
+      "original_png_sha256": "f5ad128d67571ce834edd084dd5e25ec162a6689b9dcd59c0c96e703dd2d5bad",
+      "input_png": "designers_menu_magazine/indian_reference_artworks/user/74_sari_aur_veena.png",
+      "input_png_sha256": "f5ad128d67571ce834edd084dd5e25ec162a6689b9dcd59c0c96e703dd2d5bad",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 39708,
+      "avif_sha256": "073a750f7c8e19846556332ab2cae8b9d808efd06a0871bed0bc0c26c2c20d9a"
+    },
+    {
+      "key": "a75",
+      "file": "a75.avif",
+      "source": "designers_menu_magazine/indian_reference_artworks/user/75_sakhiyon_ka_kamal.png",
+      "original_png_sha256": "20dc3222d25287b811a8073a149c8bc1da04984ddc19ed0ad7233a063c8337f5",
+      "input_png": "designers_menu_magazine/indian_reference_artworks/user/75_sakhiyon_ka_kamal.png",
+      "input_png_sha256": "20dc3222d25287b811a8073a149c8bc1da04984ddc19ed0ad7233a063c8337f5",
+      "source_crop": null,
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "mode": "RGBA",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 60248,
+      "avif_sha256": "e1bfff080df4e99a479a1329172d84ff50d9c885a00980a9868817ebffd16877"
+    },
+    {
+      "key": "a76",
+      "file": "a76.avif",
+      "source": "designers_menu_magazine/masterpiece_artworks/76_shankh_ki_lehar.png",
+      "original_png_sha256": "81f582ec91997dcc125d57a351eb376ba4f1f53523d248c8ef5960881beac82f",
+      "input_png": "designers_menu_magazine/masterpiece_artworks/76_shankh_ki_lehar.png",
+      "input_png_sha256": "81f582ec91997dcc125d57a351eb376ba4f1f53523d248c8ef5960881beac82f",
+      "source_crop": null,
+      "dimensions": [
+        848,
+        1264
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 40520,
+      "avif_sha256": "61b0668ae6a772e9f7e477565254e01a0cff74c59364ed85ff5d5b87d1cf3004"
+    },
+    {
+      "key": "a77",
+      "file": "a77.avif",
+      "source": "designers_menu_magazine/masterpiece_artworks/77_bargad_ka_aangan.png",
+      "original_png_sha256": "b52beb05be128892fc7e40ba3b7157d74e239c84bb947e367f1a63dc0fcf419a",
+      "input_png": "designers_menu_magazine/masterpiece_artworks/77_bargad_ka_aangan.png",
+      "input_png_sha256": "b52beb05be128892fc7e40ba3b7157d74e239c84bb947e367f1a63dc0fcf419a",
+      "source_crop": null,
+      "dimensions": [
+        896,
+        1200
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 140128,
+      "avif_sha256": "23d99976c882792100d6087e18d055cbbe46e1ffa8909acb0dcafdb373c0103a"
+    },
+    {
+      "key": "a78",
+      "file": "a78.avif",
+      "source": "designers_menu_magazine/masterpiece_artworks/78_aanchal_ki_nadi.png",
+      "original_png_sha256": "3160885fcdd3f43a96e87f95f9be9bafa88d7a2e19c014d0305a3fc5eea87021",
+      "input_png": "designers_menu_magazine/masterpiece_artworks/78_aanchal_ki_nadi.png",
+      "input_png_sha256": "3160885fcdd3f43a96e87f95f9be9bafa88d7a2e19c014d0305a3fc5eea87021",
+      "source_crop": null,
+      "dimensions": [
+        768,
+        1376
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 40192,
+      "avif_sha256": "6067966bb1e784c98266165968c171624ca8d1e7bb3125bbd4c6cbe9260c51fa"
+    },
+    {
+      "key": "a79",
+      "file": "a79.avif",
+      "source": "designers_menu_magazine/masterpiece_artworks/79_saras_ki_ghanti.png",
+      "original_png_sha256": "97db04241652b24f314febe9b5091195a104cf50a44c1c33209d504c842abb8e",
+      "input_png": "designers_menu_magazine/masterpiece_artworks/79_saras_ki_ghanti.png",
+      "input_png_sha256": "97db04241652b24f314febe9b5091195a104cf50a44c1c33209d504c842abb8e",
+      "source_crop": null,
+      "dimensions": [
+        848,
+        1264
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 58542,
+      "avif_sha256": "5b54b5f53f476c44915c68b452701cd231ea58a85bc22fb4dd9d523e65d4e30d"
+    },
+    {
+      "key": "a80",
+      "file": "a80.avif",
+      "source": "designers_menu_magazine/masterpiece_artworks/80_pagdi_ke_teeley.png",
+      "original_png_sha256": "be293de48d1f265b8df0524f3ca338047519225a6d3d21d6ff73208cfe3d595f",
+      "input_png": "designers_menu_magazine/masterpiece_artworks/80_pagdi_ke_teeley.png",
+      "input_png_sha256": "be293de48d1f265b8df0524f3ca338047519225a6d3d21d6ff73208cfe3d595f",
+      "source_crop": null,
+      "dimensions": [
+        896,
+        1200
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 65050,
+      "avif_sha256": "949938fc7510db826688f69467e533d5e6d347ce2da59005f44094b39ce26dcc"
+    },
+    {
+      "key": "a81",
+      "file": "a81.avif",
+      "source": "designers_menu_magazine/masterpiece_artworks/81_saavan_ki_patti.png",
+      "original_png_sha256": "254f71e2efd75962df07201d96314818d1664d47f84e5c35c5551028feae6179",
+      "input_png": "designers_menu_magazine/masterpiece_artworks/81_saavan_ki_patti.png",
+      "input_png_sha256": "254f71e2efd75962df07201d96314818d1664d47f84e5c35c5551028feae6179",
+      "source_crop": null,
+      "dimensions": [
+        848,
+        1264
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 96753,
+      "avif_sha256": "463612f0463ee44dcbef8b06698eb943c24aa211203e9db9314453ca0c28ddb4"
+    },
+    {
+      "key": "a82",
+      "file": "a82.avif",
+      "source": "designers_menu_magazine/masterpiece_artworks/82_machhli_ka_kalash.png",
+      "original_png_sha256": "54701ef3a1d1f1badd3e7db359e0c8bb0da3a7c982a634f6b6776db2437cfa18",
+      "input_png": "designers_menu_magazine/masterpiece_artworks/82_machhli_ka_kalash.png",
+      "input_png_sha256": "54701ef3a1d1f1badd3e7db359e0c8bb0da3a7c982a634f6b6776db2437cfa18",
+      "source_crop": null,
+      "dimensions": [
+        848,
+        1264
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 82714,
+      "avif_sha256": "f3ecd00770438da2d71c5cf75eb25e268925279d41513be1f701e52d446e1cee"
+    },
+    {
+      "key": "a83",
+      "file": "a83.avif",
+      "source": "designers_menu_magazine/masterpiece_artworks/83_ghoomar_ki_titli.png",
+      "original_png_sha256": "88abe9e329495cb9b23abe0f0f3fa40a6831f693c318a8d303a4a7e3412ce1d8",
+      "input_png": "designers_menu_magazine/masterpiece_artworks/83_ghoomar_ki_titli.png",
+      "input_png_sha256": "88abe9e329495cb9b23abe0f0f3fa40a6831f693c318a8d303a4a7e3412ce1d8",
+      "source_crop": null,
+      "dimensions": [
+        768,
+        1376
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 72198,
+      "avif_sha256": "1567897f24dd02b303177bf6860c29dde41980c53bd86ca299930dba33fff364"
+    },
+    {
+      "key": "a84",
+      "file": "a84.avif",
+      "source": "designers_menu_magazine/masterpiece_artworks/84_seedhiyon_ka_deep.png",
+      "original_png_sha256": "f6e5bd4691ba6095346ca5309c66a5c7786d544ee8652551f7b556d189cabfe2",
+      "input_png": "designers_menu_magazine/masterpiece_artworks/84_approved_geometry_render.png",
+      "input_png_sha256": "d77793639600fdbde280d31e100035503c611b80b8364f0fd8c850d828dfa918",
+      "source_crop": null,
+      "dimensions": [
+        1696,
+        2528
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 87227,
+      "avif_sha256": "acd5a8d3395e558f202c45512340c4d35374f17a87c6879d0ae7d351918916c6"
+    },
+    {
+      "key": "a85",
+      "file": "a85.avif",
+      "source": "designers_menu_magazine/masterpiece_artworks/85_resham_ke_parinde.png",
+      "original_png_sha256": "ee00b28b2cbfdecb21e2889efd3f9b5af9f28fa2bf1524609be2c4722fb56731",
+      "input_png": "designers_menu_magazine/masterpiece_artworks/85_resham_ke_parinde.png",
+      "input_png_sha256": "ee00b28b2cbfdecb21e2889efd3f9b5af9f28fa2bf1524609be2c4722fb56731",
+      "source_crop": null,
+      "dimensions": [
+        928,
+        1152
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 351506,
+      "avif_sha256": "f2f8d7f8e2ddaa8fb572ab79ba41ee599f68aa8a2817a5561c3ec2f86a34b47b"
+    },
+    {
+      "key": "cover",
+      "file": "cover.avif",
+      "source": "designers_menu_magazine/cover_masterpiece.png",
+      "original_png_sha256": "273b7db3ea91c5a0926ec369079cdff8aedffca21b98896798a53cbb90743721",
+      "input_png": "designers_menu_magazine/cover_masterpiece.png",
+      "input_png_sha256": "273b7db3ea91c5a0926ec369079cdff8aedffca21b98896798a53cbb90743721",
+      "source_crop": null,
+      "dimensions": [
+        896,
+        1200
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 55221,
+      "avif_sha256": "84482a35e04ad53c1ecf3a5c3af3bff17e62acb3d98cdade53a9d5c3944a022a"
+    },
+    {
+      "key": "back",
+      "file": "back.avif",
+      "source": "designers_menu_magazine/back_cover_masterpiece.png",
+      "original_png_sha256": "46beb4b5ba22036c02e546991b294a89dd45e05ef78c05f99adf0cee39e8fc63",
+      "input_png": "designers_menu_magazine/back_cover_masterpiece.png",
+      "input_png_sha256": "46beb4b5ba22036c02e546991b294a89dd45e05ef78c05f99adf0cee39e8fc63",
+      "source_crop": null,
+      "dimensions": [
+        768,
+        1376
+      ],
+      "mode": "RGB",
+      "format": "AVIF",
+      "quality": 85,
+      "chroma_subsampling": "4:4:4",
+      "encoder_speed": 6,
+      "size_bytes": 65714,
+      "avif_sha256": "47afceb6c5bfa1d15298bc9f294b74c9617d9373177ec69441311614d6d69d76"
+    }
+  ],
+  "total_bytes": 4924484,
+  "note": "Full dimensions retained; 84 is a 2x PNG rendering of the previously approved geometry; AVIF is lossy."
+}
